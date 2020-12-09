@@ -1,0 +1,8 @@
+[submodule "a/jwt-setting-practice"]
+	path = a/jwt-setting-practice
+	url = https://github.com/qhqnf/jwt-setting-practice.git
+	branch = master
+[submodule "b/jwt-setting-practice"]
+	path = b/jwt-setting-practice
+	url = https://github.com/qhqnf/jwt-setting-practice.git
+	branch = master
